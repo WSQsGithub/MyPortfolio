@@ -4,8 +4,8 @@ import './publications.css'
 const Publications = () => {
     return (
         <section>
-            <div className='section__title'>Publications</div>
-            <div className='section__subtitle'>Me as an acamidian.</div>
+            <h2 className='section__title'>Publications</h2>
+            <span className='section__subtitle'>Me as an acamidian.</span>
         </section>
     )
 }

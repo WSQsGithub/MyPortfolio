@@ -3,8 +3,8 @@ import './awards.css'
 const Awards = () => {
     return (
         <section>
-            <div className='section__title'>Awards</div>
-            <div className='section__subtitle'>A little introduction about me.</div>
+            <h2 className='section__title'>Awards</h2>
+            <span className='section__subtitle'>A little introduction about me.</span>
         </section>
     )
 }
