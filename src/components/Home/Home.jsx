@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.css'
 import Data from './Data';
 import Social from './Social';
-
+import ScrollDown from './ScrollDown';
 
   function Home(){
     return(
@@ -13,7 +13,7 @@ import Social from './Social';
                     <div className="home__img"></div>
                     <Data />
                 </div>
-
+                <ScrollDown/>
             </div>
         </section>
     );
