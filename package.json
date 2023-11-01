@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Building a personal website using MERN stack",
   "main": "index.html",
+  "homepage": "https://wsqsgithub.github.io/MyPortfolio",
   "scripts": {
     "compile": "babel src --presets react,es2015 --out-dir static",
     "test": "echo \"Error: no test specified\" && exit 1",
